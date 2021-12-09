@@ -6,7 +6,6 @@ pollOption = [
     "competitive programming"
 ]
 pollOptionSimplified = ["mach", "web", "graph", "block", "compro"]
-newPeople = 0
 
 print(
     "Welcome to the SWC Coding Club Poll! Choose an option to explore in Computer Science! Here are some options:"
