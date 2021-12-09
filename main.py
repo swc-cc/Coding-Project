@@ -1,4 +1,4 @@
-
+print()
 
 pollResult = []
 pollOption = [
